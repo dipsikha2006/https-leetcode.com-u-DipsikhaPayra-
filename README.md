@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
