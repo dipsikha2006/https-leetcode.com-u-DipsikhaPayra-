@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -57,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
