@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0279-perfect-squares) |
+| [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -91,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0342-power-of-four) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
