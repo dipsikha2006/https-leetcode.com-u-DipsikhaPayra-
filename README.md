@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0459-repeated-substring-pattern) |
 ## Array
 |  |
 | ------- |
@@ -109,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
