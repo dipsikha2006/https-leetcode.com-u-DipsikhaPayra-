@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0551-student-attendance-record-i) |
 ## Array
 |  |
 | ------- |
