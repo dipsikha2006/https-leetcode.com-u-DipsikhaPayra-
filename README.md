@@ -117,20 +117,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0572-subtree-of-another-tree) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -159,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0566-reshape-the-matrix) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
