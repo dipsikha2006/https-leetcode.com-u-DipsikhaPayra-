@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0561-array-partition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
