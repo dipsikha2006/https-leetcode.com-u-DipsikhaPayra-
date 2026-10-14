@@ -130,18 +130,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
