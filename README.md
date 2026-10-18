@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0349-intersection-of-two-arrays) |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0594-longest-harmonious-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
