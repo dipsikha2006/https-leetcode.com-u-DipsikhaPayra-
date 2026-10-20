@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0594-longest-harmonious-subsequence) |
 ## String
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0561-array-partition) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0611-valid-triangle-number) |
