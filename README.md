@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
