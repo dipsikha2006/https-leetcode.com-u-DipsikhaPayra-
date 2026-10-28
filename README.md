@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0091-decode-ways) |
 | [0290-word-pattern](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0389-find-the-difference) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0091-decode-ways) |
 | [0279-perfect-squares](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0509-fibonacci-number) |
