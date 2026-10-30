@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0064-minimum-path-sum) |
 | [0268-missing-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0349-intersection-of-two-arrays) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0091-decode-ways) |
 | [0279-perfect-squares](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0392-is-subsequence) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0064-minimum-path-sum) |
 | [0566-reshape-the-matrix](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0566-reshape-the-matrix) |
 ## Hash Function
 |  |
