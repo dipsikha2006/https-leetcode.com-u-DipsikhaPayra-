@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0572-subtree-of-another-tree) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0572-subtree-of-another-tree) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0572-subtree-of-another-tree) |
