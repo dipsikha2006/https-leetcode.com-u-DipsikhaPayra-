@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0290-word-pattern) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0268-missing-number) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0079-word-search) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0563-binary-tree-tilt) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0566-reshape-the-matrix) |
 ## Hash Function
 |  |
@@ -279,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
