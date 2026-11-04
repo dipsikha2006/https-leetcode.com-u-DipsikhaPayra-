@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0204-count-primes) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0342-power-of-four) |
@@ -287,5 +289,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
