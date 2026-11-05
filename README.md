@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0633-sum-of-square-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0696-count-binary-substrings) |
 ## Binary Search
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
