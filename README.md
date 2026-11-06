@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0844-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
