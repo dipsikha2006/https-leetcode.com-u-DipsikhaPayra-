@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0566-reshape-the-matrix) |
