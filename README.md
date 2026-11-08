@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0796-rotate-string) |
+| [0830-positions-of-large-groups](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
