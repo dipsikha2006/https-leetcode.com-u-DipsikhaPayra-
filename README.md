@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0404-sum-of-left-leaves) |
+| [0797-all-paths-from-source-to-target](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0797-all-paths-from-source-to-target) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0079-word-search) |
+| [0797-all-paths-from-source-to-target](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0797-all-paths-from-source-to-target) |
 ## Quicksort
 |  |
 | ------- |
@@ -323,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0844-backspace-string-compare) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
