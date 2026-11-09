@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0867-transpose-matrix](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0867-transpose-matrix) |
 ## Hash Function
 |  |
 | ------- |
