@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0392-is-subsequence) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0079-word-search) |
+| [0306-additive-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0306-additive-number) |
 | [0797-all-paths-from-source-to-target](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0797-all-paths-from-source-to-target) |
 ## Quicksort
 |  |
