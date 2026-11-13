@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0693-binary-number-with-alternating-bits) |
 ## Sorting
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
@@ -233,11 +235,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0680-valid-palindrome-ii) |
