@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0372-super-pow) |
 | [0415-add-strings](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0507-perfect-number) |
@@ -347,4 +348,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0797-all-paths-from-source-to-target) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0372-super-pow) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
