@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0372-super-pow) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0279-perfect-squares) |
+| [0357-count-numbers-with-unique-digits](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0509-fibonacci-number) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0079-word-search) |
 | [0306-additive-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0797-all-paths-from-source-to-target](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0797-all-paths-from-source-to-target) |
 ## Quicksort
 |  |
