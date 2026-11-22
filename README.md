@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/dipsikha2006/https-leetcode.com-u-DipsikhaPayra-/tree/master/0867-transpose-matrix) |
